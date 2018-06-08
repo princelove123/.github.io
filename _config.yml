@@ -1,7 +1,4 @@
-## => Language
-##############################
-lang: zh-Hans # the language of your site, "en" (default, English), "zh"(¼òÌåÖÐÎÄ), "zh-Hans"(¼òÌåÖÐÎÄ), "zh-Hant"(·±ówÖÐÎÄ)
-title: Hello,welcome to Fly Education
+ï»¿title: Hello,welcome to Fly Education
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -12,9 +9,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: ÁÖÃ· # add your name
+author: æž—æ¢… # add your name
 author-img: linmei.jpg # add your photo
-about-author: º¼ÖÝ¸£À­½ÌÓý³ÉÁ¢ÖÁ½ñ¼ºÓÐÊ®Äê£¬ÎÒÃÇÖÂÁ¦ÓÚÎªÐèÒªÌáÉýÑ§Àú¡¢¸÷Àà¿¼Ö¤ÈËÔ±Ìá¹©×îÓÅÖÊµÄ¿¼Ç°ÅàÑµºÍÍÐ¹Ü·þÎñ£¬ÒÔ×î±ã½Ý¡¢×îÓÐÐ§µÄ·½Ê½£¬ÈÃÄúÔçÈÕÈ¡µÃËùÐè¡£ÔðÈÎÓë³ÏÐÅÊÇÎÒÃÇ¾­ÓªµÄµÚÒ»·¨Ôò£¬ÎÈÍ×Óë¸ßÐ§ÊÇÎÒÃÇµÄ¾­Óª»ù´¡. # add description
+about-author: æ­å·žç¦æ‹‰æ•™è‚²æˆç«‹è‡³ä»Šå·±æœ‰åå¹´ï¼Œæˆ‘ä»¬è‡´åŠ›äºŽä¸ºéœ€è¦æå‡å­¦åŽ†ã€å„ç±»è€ƒè¯äººå‘˜æä¾›æœ€ä¼˜è´¨çš„è€ƒå‰åŸ¹è®­å’Œæ‰˜ç®¡æœåŠ¡ï¼Œä»¥æœ€ä¾¿æ·ã€æœ€æœ‰æ•ˆçš„æ–¹å¼ï¼Œè®©æ‚¨æ—©æ—¥å–å¾—æ‰€éœ€ã€‚è´£ä»»ä¸Žè¯šä¿¡æ˜¯æˆ‘ä»¬ç»è¥çš„ç¬¬ä¸€æ³•åˆ™ï¼Œç¨³å¦¥ä¸Žé«˜æ•ˆæ˜¯æˆ‘ä»¬çš„ç»è¥åŸºç¡€. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: artemsheludko # add your Github handle
