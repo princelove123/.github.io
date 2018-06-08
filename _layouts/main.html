@@ -8,24 +8,15 @@ layout: default
       <div class="cover-author-image">
         <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}" alt="{{site.author}}"></a>
       </div>
-      <div class="author-name">{{site.author}}</div>
-      <p>{{site.about-author}}</p>
+      <div class="author-name">林梅</div>
+      <p>杭州福拉教育成立至今己有十年，我们致力于为需要提升学历、各类考证人员提供最优质的考前培训和托管服务，以最便捷、最有效的方式，让您早日取得所需。责任与诚信是我们经营的第一法则，稳妥与高效是我们的经营基础。</p>
     </div>
   </header> <!-- End Header -->
   <footer>
     <section class="contact">
       <h3 class="contact-title">Contact me</h3>
+      <img src="{{site.baseurl}}/assets/img/vx.jpg" alt="{{site.author}}">
       <ul>
-        {% if site.social-twitter %}
-          <li><a href="https://twitter.com/{{ site.social-twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-        {% else %}
-          <li><a href="https://twitter.com/artemsheludko_" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-        {% endif %}
-        {% if site.social-facebook %}
-          <li><a href="https://facebook.com/{{ site.social-facebook }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-        {% else %}
-          <li><a href="https://facebook.com/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-        {% endif %}
         {% if site.social-github %}
           <li class="github"><a href="http://github.com/{{site.social-github}}" target="_blank"><i class="fa fa-github"></i></a></li>
         {% else %}
