@@ -1,0 +1,11 @@
+---
+layout: post
+title: 其他类别证书
+date: 2017-09-12 00:00:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: software.jpg # Add image post (optional)
+tags: [Productivity, Software] # add tag
+---
+
+
+### 教师资格证;  会计从业资格证; Cet4 、公三; 普通话（二甲 二乙);全国计算机等级  二级; 各类学历认证;
