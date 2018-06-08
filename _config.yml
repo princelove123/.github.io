@@ -10,9 +10,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Lin Mei # add your name
+author: 林梅 # add your name
 author-img: linmei.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+about-author: 杭州福拉教育成立至今己有十年，我们致力于为需要提升学历、各类考证人员提供最优质的考前培训和托管服务，以最便捷、最有效的方式，让您早日取得所需。责任与诚信是我们经营的第一法则，稳妥与高效是我们的经营基础. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: artemsheludko # add your Github handle
